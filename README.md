@@ -2,7 +2,7 @@
   
 ## Universidad Peruana de Ciencias Aplicadas
 
-![Image](https://github.com/user-attachments/assets/b3cd9138-b6d2-4df7-84d3-197c1667956f)
+![Image](images/upc-logo.png)
 
 ## TB1 "StayMap"
 
