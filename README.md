@@ -1,6 +1,9 @@
 <div align="center">
+  
 ## Universidad Peruana de Ciencias Aplicadas
+
 ![Image](https://github.com/user-attachments/assets/b3cd9138-b6d2-4df7-84d3-197c1667956f)
+
 ## TB1 "StayMap"
 
 
