@@ -15,9 +15,13 @@ Carrera de Ingeniería de Software
 **Integrantes:**
 
 Collantes Carrillo, Diego Mateo (u202311823)
+
 Lizarbe Alvarez, Ariana Nickole (u202311704)
+
 Ortiz Cardenas, Johanna Antuanete (u202310358)
+
 Zegarra Lopez, Renato Sebastian Rubber (u202311558)
+
 Zúñiga Murillo, Diego Sebastian (u202310636)
 
 
