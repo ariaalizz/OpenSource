@@ -1,3 +1,4 @@
+<div align="center">
 ## Universidad Peruana de Ciencias Aplicadas
 ![Image](https://github.com/user-attachments/assets/b3cd9138-b6d2-4df7-84d3-197c1667956f)
 ## TB1 "StayMap"
@@ -26,3 +27,44 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 
 
 **2025**
+</div>
+
+## Registro de Versiones del Informe
+
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TB1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TP</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TB2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TF</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
