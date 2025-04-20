@@ -70,6 +70,7 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
     </tr>
   </tbody>
 </table>
+
 ## Contents
 
 - [STUDENT OUTCOME](#student-outcome)
@@ -176,14 +177,14 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
     </tbody>
 </table>
 
-## CAPÍTULO I: INTRODUCCIÓN
+# CAPÍTULO I: INTRODUCCIÓN
 
-## 1.1. Startup Profile
+# 1.1. Startup Profile
 
-# 1.1.1. Descripción de la Startup
+## 1.1.1. Descripción de la Startup
 MIROH es una startup creativa y tecnológica comprometida con transformar la manera en que las personas descubren, conectan y viven la música en vivo. Creemos que cada concierto, sin importar su tamaño, tiene el poder de generar emociones únicas y crear vínculos duraderos entre artistas y fans. Por ello, trabajamos en soluciones digitales innovadoras que conectan al público con experiencias musicales auténticas y accesibles.
 Nos enfocamos en el desarrollo de StayMap, una aplicación web interactiva que actúa como un puente entre los amantes de la música y los escenarios de su ciudad. A través de un mapa dinámico con geolocalización, los usuarios pueden explorar eventos en tiempo real, seguir a sus artistas favoritos, conocer las fechas de sus giras, hacer check-in en conciertos y compartir momentos con otros fans. Además, brindamos herramientas de promoción y visibilidad para bandas emergentes, contribuyendo activamente al crecimiento de la escena musical independiente.
 En MIROH, apostamos por el poder de la comunidad, el descubrimiento espontáneo y la tecnología como medio para enriquecer las experiencias culturales. Nuestra visión es construir una red global donde cada presentación en vivo —desde un bar local hasta un festival internacional— pueda ser descubierta, compartida y vivida al máximo, celebrando la diversidad y el dinamismo del mundo musical.
 Con pasión, creatividad y enfoque social, desde el corazón de MIROH impulsamos proyectos como StayMap, que reimaginan el futuro de la música en vivo y lo acercan a quienes más lo disfrutan.
 
-# 1.1.2. Perfiles de integrantes del equipo
+## 1.1.2. Perfiles de integrantes del equipo
