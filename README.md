@@ -192,14 +192,15 @@ Con pasión, creatividad y enfoque social, desde el corazón de MIROH impulsamos
 <table>
   <thead>
     <tr>
-      <th>Columna 1</th>
-      <th>Columna 2</th>
+      <th>Estudiante</th>
+      <th>Descripción</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Fila 1</td>
-      <td>Contenido 1</td>
+      <td>Diego Collantes</td>
+      <td>Mi nombre es Diego Collantes. Tengo 19 años. Soy estudiante de quinto ciclo en la Universidad Peruana de Ciencias Aplicadas (UPC). Disfruto de leer, redactar y escuchar música en mi tiempo libre. Elegí esta carrera, ya que me interesó todo el proceso que hay detrás de cada aplicación o programa que usamos en nuestro día a día. Personalmente, espero ampliar mis conocimientos en este ámbito a lo largo de este curso. Además, estoy comprometido a contribuir en todo lo que sea posible con el equipo y a desempeñarme de manera adecuada.
+</td>
     </tr>
     <tr>
       <td>Fila 2</td>
