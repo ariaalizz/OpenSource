@@ -189,6 +189,37 @@ Con pasión, creatividad y enfoque social, desde el corazón de MIROH impulsamos
 
 ## 1.1.2. Perfiles de integrantes del equipo
 
+<table>
+  <thead>
+    <tr>
+      <th>Columna 1</th>
+      <th>Columna 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fila 1</td>
+      <td>Contenido 1</td>
+    </tr>
+    <tr>
+      <td>Fila 2</td>
+      <td>Contenido 2</td>
+    </tr>
+    <tr>
+      <td>Fila 3</td>
+      <td>Contenido 3</td>
+    </tr>
+    <tr>
+      <td>Fila 4</td>
+      <td>Contenido 4</td>
+    </tr>
+    <tr>
+      <td>Fila 5</td>
+      <td>Contenido 5</td>
+    </tr>
+  </tbody>
+</table>
+
 # 1.2 Solution Profile
 ## 1.2.1. Antecedentes y problemática
 **What**:
