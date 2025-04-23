@@ -380,3 +380,14 @@ Conexión con expertos y comunidad
 - Evaluaciones y puntuaciones de lugares según criterios de seguridad, ambiente, accesibilidad, etc.
 - Módulo de comunidad para compartir experiencias y recomendaciones.
 - Panel de control con estadísticas sobre hábitos de movilidad, zonas favoritas, y mejoras sugeridas.
+
+### 1.2.2.3. Lean UX Hypothesis Statements
+Creemos que, si StayMap tiene una interfaz intuitiva y está optimizada para dispositivos móviles, incluso los usuarios con poca experiencia tecnológica podrán usar la aplicación fácilmente para orientarse y explorar nuevas zonas.
+Creemos que, si StayMap proporciona datos actualizados en tiempo real sobre zonas seguras e inseguras, los usuarios podrán planificar mejor sus recorridos y evitar áreas de riesgo, mejorando su experiencia de movilidad.
+Creemos que, si StayMap ofrece recomendaciones de lugares según intereses del usuario y zonas seguras cercanas, se fomentará la exploración urbana con mayor confianza y seguridad, atrayendo a viajeros más curiosos.
+Creemos que, si StayMap integra una comunidad activa donde los usuarios pueden reportar incidentes o compartir experiencias, se generará confianza colectiva y participación constante, fortaleciendo el valor colaborativo de la app.
+Creemos que, si StayMap funciona eficazmente en zonas con conectividad limitada o intermitente, será útil para viajeros en contextos rurales o en ciudades con poca cobertura de red, aumentando su alcance y utilidad.
+Creemos que, si StayMap ofrece notificaciones personalizadas sobre alertas de seguridad, eventos o cambios en zonas frecuentadas, los usuarios podrán reaccionar rápidamente y sentirse más seguros al desplazarse.
+Creemos que, si StayMap permite guardar rutas favoritas y recibir sugerencias basadas en comportamientos pasados, los usuarios tendrán una experiencia más personalizada y práctica, incrementando su uso continuo.
+Creemos que, si StayMap incluye un modo offline con mapas básicos y alertas descargadas previamente, los usuarios podrán seguir navegando con seguridad incluso sin conexión, reforzando la confianza en la app.
+
